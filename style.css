@@ -1,0 +1,143 @@
+body{
+	background-color: #a6edec;
+}
+
+nav{
+	background-color: #89e0df;
+	color: #168505;
+	font-size: 17px;
+}
+
+h1{
+	margin-top: 40px;
+	font-family: 'Lobster', cursive;
+	text-shadow: 5px 0 #232931;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 5em;
+	color: rgb(0, 86, 179);
+	padding: 10px;
+}
+
+p{
+	text-align: center;
+	color: rgb(0, 86, 179);
+
+}
+
+#container{
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 30px;
+	padding: 10px;
+	color: rgb(0, 86, 179);
+}
+
+#result{
+	font-size: 20px;
+	padding: 10px;
+}
+
+#mybtn{
+	display: inline;
+	position: relative;
+	margin-top: 10px;
+	background-color: white;
+	border: solid;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	color: rgb(0, 86, 179);
+	border-radius: 10px;
+	padding: 10px 30px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#btn{
+	display: inline;
+	position: relative;
+	margin-top: 10px;
+	background-color: white;
+	border: solid;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	color: rgb(0, 86, 179);
+	border-radius: 10px;
+	padding: 10px 30px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#table{
+	margin-left: 450px;
+
+}
+
+.info{
+	padding: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: left;
+}
+
+hr{
+	background-color: rgb(0, 86, 179)
+}
+
+#img1{
+	width: 100px;
+	height: 150px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+#img2{
+	width: 170px;
+	height: 170px;
+	float: right;
+	margin-top: 10px;
+}
+
+#img3{
+	width: 130px;
+	height: 130px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+#img4{
+	width: 155px;
+	height: 130px;
+	float: right;
+	margin-top: 10px;
+}
+
+#img{
+	width: 120px;
+	height: 120px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+}
+
+.content{
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+
+footer{
+	background-color: #89e0df;
+	color: blue;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 40px;
+	padding: 10px;
+
+}
